@@ -20,7 +20,7 @@ La aplicación consta de tres pantallas.
 
 ### Vacantes
 
-Lista ordenadamente tarjetas que muestran vacantes. Cada tarjeta contiene un resumen que consta de título, equipo y países; además, solo un botón, para ver los detalles de la vacante. El ordenamiento de las vacantes se obtiene comparando la urgencia de cada vacante, para posicionar primeramente aquellas que sean urgentes. Esta urgencia se puede evidenciar en que el título de la vacante destaca más.
+Lista ordenadamente tarjetas que muestran vacantes. Cada tarjeta contiene un resumen que consta de título, equipo y países; además, solo un botón, para ver los detalles de la vacante. El ordenamiento de las tarjetas se obtiene comparando la urgencia de cada una, para posicionar primeramente aquellas que sean urgentes. Esta urgencia se puede evidenciar en que el título de la vacante destaca más.
 
 ### Detalles
 
